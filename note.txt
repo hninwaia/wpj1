@@ -1,0 +1,23 @@
+# django install
+pip install django 
+
+# check django version
+python -m django --version 
+
+# starting project 
+django-admin startproject ပေးချင်တဲ့pjname
+django-admin startproject wpj1 
+
+# cd into ပေးခဲ့တဲ့pjname
+cd wpj1 
+
+# show files and folder 
+dir or ls
+
+# ready or not!
+python manage.py runserver
+
+#server stop
+ctrl+c
+
+# create 
